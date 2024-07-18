@@ -493,7 +493,6 @@ a {
   .basement-form {
     display: flex;
     gap: 24px;
-
   }
   
   .basement-input::placeholder {
